@@ -1,0 +1,8 @@
+.opacity1 div img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.opacity1 div:hover img {
+	opacity: .5;
+}
